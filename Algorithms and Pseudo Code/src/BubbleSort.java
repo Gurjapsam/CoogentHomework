@@ -25,7 +25,7 @@ public class BubbleSort {
 	 }	 
 	}
 	
-	public static void Merge () { 
+	public static void Merge () { // Merge Sort starts from here. 
 		
 		int arr[] = {90,65,74,14,32,1,55,41,80};
 		int arr2[] = {90,65,1,74,14,32,55,41,80};
